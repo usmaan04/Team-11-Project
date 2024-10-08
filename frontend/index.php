@@ -1,1 +1,1 @@
-egg hello 
+egg 
